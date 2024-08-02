@@ -1,19 +1,37 @@
-# Clipboard Website
+# Clipboard
 
-Clipboard landing page from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9)
+Clipboard landing page using Tailwind and from Frontend Mentor Challenge
 
-## Usage
+## Demo
+
+https://clipboard-mbd.netlify.app/
+
+## Screenshots
+
+![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-clipboard.png?raw=true)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/MaxBenDuah/clipboard-tailwind-project.git
+```
+
+Go to the project directory
+
+```bash
+  cd clipboard-tailwind-project
+```
 
 Install dependencies
 
-```
-npm Install
-```
-
-Run Tailwind CLI
-
-```
-npm run watch
+```bash
+  npm install
 ```
 
-![Alt text](images/clipboard.png)
+Start the server
+
+```bash
+  npm run watch
+```
